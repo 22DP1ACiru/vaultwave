@@ -1,0 +1,19 @@
+# Django
+*.sqlite3
+__pycache__
+*.pyc
+.env
+
+# Node.js
+node_modules/
+dist/
+.DS_Store
+
+# Docker
+**/Dockerfile
+**/docker-compose.yml
+**/.dockerignore
+
+# IDE
+.vscode/
+.idea/

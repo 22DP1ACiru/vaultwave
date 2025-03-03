@@ -1,0 +1,9 @@
+Django==5.0.4
+djangorestframework==3.14.0
+psycopg2-binary==2.9.9
+redis==5.0.1
+celery==5.3.6
+django-allauth==0.58.2
+ffmpeg-python==0.2.0
+mutagen==1.47.0
+python-dotenv==1.0.1
