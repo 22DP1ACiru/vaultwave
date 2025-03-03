@@ -7,3 +7,4 @@ django-allauth==0.58.2
 ffmpeg-python==0.2.0
 mutagen==1.47.0
 python-dotenv==1.0.1
+pillow==11.1.0 
